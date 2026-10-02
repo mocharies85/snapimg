@@ -1,23 +1,44 @@
 [
   {
     "slug": "png-to-webp",
-    "title": "Free PNG to WebP Converter",
-    "desc": "Convert PNG images to lightweight, high-quality WebP format instantly in your browser with zero quality loss.",
+    "title": "PNG to WebP Converter",
+    "desc": "Convert PNG images to lightweight WebP format instantly with zero loss in visual quality.",
     "targetFormat": "image/webp",
     "ext": "webp"
   },
   {
-    "slug": "jpg-to-png",
-    "title": "JPG to PNG Converter",
-    "desc": "Quickly convert JPG photos to PNG format online. Fast, secure, and preserves transparency.",
+    "slug": "jpg-to-webp",
+    "title": "JPG to WebP Converter",
+    "desc": "Compress and convert standard JPG photos to high-performance WebP format for fast web delivery.",
+    "targetFormat": "image/webp",
+    "ext": "webp"
+  },
+  {
+    "slug": "webp-to-png",
+    "title": "WebP to PNG Converter",
+    "desc": "Convert modern WebP images back into transparent, lossless PNG format in seconds.",
     "targetFormat": "image/png",
     "ext": "png"
   },
   {
-    "slug": "compress-image-webp",
-    "title": "Online Image Compressor",
-    "desc": "Compress and optimize your images up to 80% smaller without noticeable loss of visual clarity.",
-    "targetFormat": "image/webp",
-    "ext": "webp"
+    "slug": "webp-to-jpg",
+    "title": "WebP to JPG Converter",
+    "desc": "Extract and convert WebP graphics into universally compatible JPG images.",
+    "targetFormat": "image/jpeg",
+    "ext": "jpg"
+  },
+  {
+    "slug": "png-to-jpg",
+    "title": "PNG to JPG Converter",
+    "desc": "Transform transparent PNG files into optimized, high-compatibility JPG photos.",
+    "targetFormat": "image/jpeg",
+    "ext": "jpg"
+  },
+  {
+    "slug": "compress-image-online",
+    "title": "Instant Image Compressor",
+    "desc": "Reduce image file size by up to 90% directly inside your browser without uploading to any server.",
+    "targetFormat": "image/jpeg",
+    "ext": "jpg"
   }
 ]
